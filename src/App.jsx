@@ -1,9 +1,10 @@
 
 import './App.css';
+import CityInfo from './Components/CityInfo.jsx';
 
 function App() {
   return (
-   <h1>Hello!</h1>
+    <CityInfo />
   );
 }
 
